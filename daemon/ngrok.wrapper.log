@@ -1,0 +1,2 @@
+2024-03-03 10:16:23 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\Users\Rooney\Desktop\Apps\ngrok\node_modules\node-windows\lib\wrapper.js --file C:\Users\Rooney\Desktop\Apps\ngrok\ngrok.js --scriptoptions= --log "ngrok wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-03-03 10:16:23 - Started 9340
